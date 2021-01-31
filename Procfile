@@ -1,1 +1,1 @@
-web: gunicorn app:StarterCode.app
+web: gunicorn app:app
